@@ -1,6 +1,6 @@
 {
   "name": "@viateai/plugin-openai-compatible",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Viate provider that relays chat completions, embeddings, responses, and model lists to an OpenAI-shaped base URL.",
   "license": "MIT",
   "private": false,
